@@ -19,6 +19,7 @@
 [**Sem12**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.12)|[**Prakt12**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.12)
 [**Sem13**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.13)|[**Prakt13**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.13)
 [**Sem14**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.14)|[**Prakt14**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.14)
+[**Sem15**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.15)|
 
 ## **Homework and Bonus Tasks**
 Homework|Link
