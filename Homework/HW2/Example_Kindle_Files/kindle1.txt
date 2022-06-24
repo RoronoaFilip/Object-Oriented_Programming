@@ -1,0 +1,18 @@
+kindle1
+12
+Harry Potter by Harry.txt
+The Witcher by Andzjei Sapkowski.txt
+The Witcher Part 2 by Filip Filchev.txt
+Roronoa Zoro's Adventures by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 2 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 3 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 4 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 5 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 6 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Part 7 by Roronoa Filip.txt
+Roronoa Zoro's Adventures Last Part by Roronoa Filip.txt
+My real Adventures by Roronoa Zoro.txt
+3
+RoronoaFilip.txt
+harry.txt
+RoronoaZoro.txt

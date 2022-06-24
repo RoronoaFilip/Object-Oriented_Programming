@@ -1,0 +1,63 @@
+<student>
+	<name>Antonio Georgiev<\name>
+	<fn>765756<\fn>
+	<age>54<\age>
+	<gender>male<\gender>
+	<email>toni@abv.bg<\email>
+	<grade>5.45<\grade>
+<\student>
+
+<student>
+	<name>Elizabet Hristova<\name>
+	<fn>98776<\fn>
+	<age>16<\age>
+	<gender>female<\gender>
+	<email>eli@abv.bg<\email>
+	<grade>5.67<\grade>
+<\student>
+
+<student>
+	<name>Filip Filchev<\name>
+	<fn>421<\fn>
+	<age>19<\age>
+	<gender>male<\gender>
+	<email>ffilchev@uni-sofia.bg<\email>
+	<grade>4.2<\grade>
+<\student>
+
+<student>
+	<name>Georgi Hristov<\name>
+	<fn>234234<\fn>
+	<age>23<\age>
+	<gender>male<\gender>
+	<email>gogo123@gmail.com<\email>
+	<grade>5.54<\grade>
+<\student>
+
+<student>
+	<name>Hristina Ilieva<\name>
+	<fn>5435<\fn>
+	<age>19<\age>
+	<gender>female<\gender>
+	<email>hrisi@abv.bg<\email>
+	<grade>2.23<\grade>
+<\student>
+
+<student>
+	<name>Krasimir Stoilov<\name>
+	<fn>5980234<\fn>
+	<age>17<\age>
+	<gender>male<\gender>
+	<email>krasi543@gmail.com<\email>
+	<grade>3.34<\grade>
+<\student>
+
+<student>
+	<name>Petar Popov<\name>
+	<fn>12345<\fn>
+	<age>18<\age>
+	<gender>male<\gender>
+	<email>pepi@abv.bg<\email>
+	<grade>5.25<\grade>
+<\student>
+
