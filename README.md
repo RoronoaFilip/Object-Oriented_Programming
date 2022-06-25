@@ -39,4 +39,4 @@ Materials
 
 Exam
 :-:
-[**Exam Theory Problems**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Exam/ExamThemes.txt)
+[**Exam Theory Problems**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Exam/ExamThemes.pdf)
