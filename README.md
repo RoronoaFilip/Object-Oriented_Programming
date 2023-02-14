@@ -3,6 +3,7 @@
 
 
 ## **Seminars and Practicum**
+Link to the Repository of [**Ангел Димитриев**](https://github.com/Angeld55/Object-oriented_programming_FMI)
 [**Seminars**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars)|[**Practicum**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum)
 :-:|:-:
 [**Sem1**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.1)|[**Prakt1**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.1)
