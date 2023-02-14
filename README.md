@@ -33,9 +33,9 @@ Bonus 2|[**BonusHW 2**](https://github.com/RoronoaFilip/Object-Oriented_Programm
 Bonus 3|[**BonusHW 3**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Homework/Bonus3)
 Yu-Gi-OH|[**Yu-Gi-Oh Task**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Homework/Yu-Gi-OH)
 
-Materials
-:-:
-[**Lectures**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Lectures)
+Materials | Some Data Structures
+:-:|:-:
+[**Lectures**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Lectures)| [**Data Structures**](https://github.com/RoronoaFilip/Data_Structures_And_Algorithms/tree/main/Data_Structures)
 
 Exam
 :-:
