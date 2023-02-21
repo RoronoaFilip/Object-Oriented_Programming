@@ -7,6 +7,7 @@ Link to the Repository of [**Георги Терзиев**](https://github.com/G
 Link to the Repository of [**Ангел Димитриев**](https://github.com/Angeld55/Object-oriented_programming_FMI/tree/b62440d28f3f984cb64b897c74e20ec418f2c627)
 [**Seminars**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars)|[**Practicum**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum)
 :-:|:-:
+by [**Ангел Димитриев**](https://github.com/Angeld55)|by [**Стойчо Кьосев**](https://github.com/stoychoX)
 [**Sem1**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.1)|[**Prakt1**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.1)
 [**Sem2**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.2)|[**Prakt2**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.2)
 [**Sem3**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Seminars/Sem.3)|[**Prakt3**](https://github.com/RoronoaFilip/Object-Oriented_Programming/tree/main/Seminars/Practicum/Pract.3)
